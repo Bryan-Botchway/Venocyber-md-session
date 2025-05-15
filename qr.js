@@ -59,24 +59,22 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Venocyber_Tech.sendMessage(Qr_Code_By_Venocyber_Tech.user.id, { text: '' + b64data });
 	
 				   let VENOCYBER_MD_TEXT = `
-*_Qr Code By Venocyber Tech_*
+*_Qr Code By 𝖎 𝖆𝖒 𝖐𝖍𝖆𝖔𝖘_*
 *_Made With 🤍_*
 ______________________________________
-*_Pair Code Connected by Venocyber Tech_*
+*_Pair Code Connected by 𝖎 𝖆𝖒 𝖐𝖍𝖆𝖔𝖘_*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU CHOOSEN VENOCYBER-MD 』*
+║ *『 WOW YOU CHOOSEN VENOM-MD 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚══════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@JASTINMTEWA-vn9pl_
-║❒ *Owner:* _https://wa.me/message/A4QG2JZKBXFTN1_
-║❒ *Repo:* _https://github.com/Kingjux/venocyber-md_
-║❒ *WaGroup:* _https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l_
-║❒ *Plugins:* _https://github.com/Kingjux/venocyber-md-plugins_
+║❒ *Ytube:* _youtube.com/@LORD-BRYAN-MASTER_
+║❒ *Owner:* _https://wa.me/message/233538733413
+║❒ *Repo:* _https://github.com/Bryanlover1/Venom-md_
+║❒ *WaGroup:* _https://chat.whatsapp.com/GKLnLf1tBP5DyyzsgclPac_
 ╚══════════════════════╝ 
 _____________________________________
 	
